@@ -1,7 +1,7 @@
 # Hi, I'm Saksham 👋  
-Aspiring Aerospace Engineer | CFD & Simulation Enthusiast
+Aspiring Aerospace Engineer
 
-I’m a final-year Mechanical Engineering student with a strong interest in **aerodynamics**, **CFD**, and **aerospace design**. I enjoy working on simulations, airfoil development, and engineering analysis — especially using tools like **OpenFOAM**, **Gmsh**, **MATLAB**, and **SolidWorks**.
+I’m a final-year Mechanical Engineering student with a strong interest in **aerodynamics**, **aerodynamics**, **additive manufacturing**, and **CFD**. I enjoy working on simulations, aerospace design, airfoil development, and engineering analysis — especially using tools like **AnsysFluent**, **Gmsh**, **MATLAB**, and **SolidWorks**.
 
 ---
 
@@ -35,6 +35,7 @@ Thermodynamic analysis of an R-134a refrigeration cycle examining evaporator, co
 - Airfoil optimization  
 - OpenFOAM case automation  
 - CFD post-processing workflows
+- Fused Deposition Modelling (FDM) based 3D printing
 
 ---
 
