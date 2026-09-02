@@ -39,11 +39,11 @@ Thermodynamic analysis of an R-134a refrigeration cycle examining evaporator, co
 ---
 
 ## 📘 What I’m exploring now
--Aerospace manufacturing and prototyping
--Aerospace aerodynamics and CFD
--Airfoil design and optimization
--Propulsion and aircraft systems
--FDM-based 3D printing and design for manufacturing
+Aerospace manufacturing and prototyping,
+Aerospace aerodynamics and CFD,
+Airfoil design and optimization,
+Propulsion and aircraft systems, and
+FDM-based 3D printing and design for manufacturing
 
 ---
 
