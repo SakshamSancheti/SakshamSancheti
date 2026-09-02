@@ -1,29 +1,37 @@
 # Hi, I'm Saksham 👋  
-Aspiring Aerospace Engineer
+Master’s student in Aerospace Engineering at the University of Michigan, Ann Arbor, with a background in Mechanical Engineering.
 
-I’m a final-year Mechanical Engineering student with a strong interest in **aerodynamics**, **aerodynamics**, **additive manufacturing**, and **CFD**. I enjoy working on simulations, aerospace design, airfoil development, and engineering analysis — especially using tools like **AnsysFluent**, **Gmsh**, **MATLAB**, and **SolidWorks**.
+Passionate about aerodynamics, Computational Fluid Dynamics (CFD), aerospace design, additive manufacturing, and engineering simulation. I enjoy working on airfoil development, aerodynamic analysis, simulations, and computational engineering problems.
 
 ---
 
 ## 🚀 Technical Skills
-- **CFD & Simulation:** OpenFOAM, ANSYS Fluent, Simscale  
-- **CAD:** SolidWorks, Fusion360, CATIA  
-- **Programming:** MATLAB, Python  
-- **Other:** Gmsh meshing, 3D printing, basic CNC
+-**CAD & Design**: SolidWorks, Fusion 360
+-**Simulation & Analysis**: ANSYS Workbench, ANSYS Fluent (CFD), MATLAB, CoolPack
+-**Mechanical Design:** Machine elements, bearings, shafts, gears, power transmission, drivetrain design
+-**Aerodynamics & Propulsion:** Airfoil analysis, propulsion systems, UAV systems
+-**Manufacturing & Testing:** CNC machining, laser cutting, FDM 3D printing, Ultimaker Cura, experimental testing
+-**Aerospace Operations:** Assembly, pneumatic systems, inventory management, quality documentation, SOPs, FOD, SMS
 
 ---
 
 ## 💼 Internships
-- **Dassault Reliance Aerospace Limited (DRAL):** Exposure to aerospace aerostructure assembly workflows and coordination with international engineering teams.  
+- **Dassault Reliance Aerospace Limited (DRAL):**
+Exposure to aerospace aerostructure assembly workflows and coordination with international engineering teams.
+An aerospace manufacturing internship involving pneumatic mechanism design, assembly tooling, inventory management, production documentation, and quality practices supporting Falcon aircraft assembly.
 
 ---
 
 ## 🔧 Featured Projects
-### **• Modified NACA Airfoil — Design & CFD Analysis**  
-Aerodynamic study of a modified NACA airfoil including geometry generation, mesh creation, and performance comparison across angles of attack.
 
-### **• Two-Stage Reduction Gearbox for UAVs**  
-Lightweight gearbox design for UAV propulsion with gear/shaft calculations and a focus on efficiency and low backlash.
+### **• Design, Fabrication & Experimental Analysis of a Turbocharger-Based Turbojet Engine**  
+A six-month capstone project focused on the design, fabrication, CFD analysis, and experimental testing of a turbocharger-based turbojet engine, achieving 10.2 N of peak thrust on a sub-$1,000 budget.
+### **• Design and Analysis of Standard and Modified NACA 2412 Airfoil**  
+A computational aerodynamics project involving MATLAB-based airfoil geometry development and CFD analysis, achieving a 20% increase in lift coefficient with no noticeable increase in drag.
+
+
+### **• Design of a Two-Stage Reduction Gearbox for UAV Applications**  
+A mechanical design project focused on developing a lightweight, compact two-stage reduction gearbox using gears, shafts, bearings, and power-transmission analysis to optimize UAV propulsion performance.
 
 ### **• R-134a Refrigerant: Cyclic Analysis & Parametric Study**  
 Thermodynamic analysis of an R-134a refrigeration cycle examining evaporator, compressor, and condenser performance trends.
@@ -31,11 +39,11 @@ Thermodynamic analysis of an R-134a refrigeration cycle examining evaporator, co
 ---
 
 ## 📘 What I’m exploring now
-- Unsteady aerodynamics  
-- Airfoil optimization  
-- OpenFOAM case automation  
-- CFD post-processing workflows
-- Fused Deposition Modelling (FDM) based 3D printing
+-Aerospace manufacturing and prototyping
+-Aerospace aerodynamics and CFD
+-Airfoil design and optimization
+-Propulsion and aircraft systems
+-FDM-based 3D printing and design for manufacturing
 
 ---
 
